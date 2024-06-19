@@ -1,0 +1,41 @@
+{
+    "posts" : [
+        {
+          "id": 1,
+          "title": "The Importance of Regular Exercise",
+          "description": "Regular exercise is essential for maintaining physical and mental health. It helps reduce stress, improve mood, and increase overall well-being.",
+          "likeCounts": 150
+        },
+        {
+          "id": 2,
+          "title": "Healthy Eating Habits",
+          "description": "Adopting healthy eating habits is crucial for long-term health. Incorporate a variety of fruits, vegetables, and whole grains into your diet for optimal nutrition.",
+          "likeCounts": 120
+        },
+        {
+          "id": 3,
+          "title": "Meditation for Mindfulness",
+          "description": "Meditation can significantly improve your mental health by promoting relaxation, reducing stress, and enhancing self-awareness. Practice daily for best results.",
+          "likeCounts": 200
+        },
+        {
+          "id": 4,
+          "title": "The Benefits of Staying Hydrated",
+          "description": "Drinking enough water daily is vital for your health. It helps maintain bodily functions, improves energy levels, and aids in digestion. Aim for 8 glasses a day.",
+          "likeCounts": 180
+        },
+        {
+          "id": 5,
+          "title": "Tips for Better Sleep",
+          "description": "Quality sleep is essential for overall health. Establish a regular sleep schedule, create a comfortable environment, and avoid screens before bedtime for better rest.",
+          "likeCounts": 170
+        },
+        {
+          "id": 6,
+          "title": "Managing Stress Effectively",
+          "description": "Stress management is key to a balanced life. Practice techniques like deep breathing, yoga, and spending time in nature to reduce stress and improve well-being.",
+          "likeCounts": 140
+        }
+      ]
+}
+  
